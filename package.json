@@ -1,5 +1,5 @@
 {
-  "name": "redux-project",
+  "name": "social-feed-redux-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
